@@ -9,7 +9,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 
-- [AI Labor Market Insights Dashboard]([https://www.youtube.com/watch?v=E2MwRWxDBkA](https://youtu.be/_xodPJHXH5E?si=_KuZqv2xhX6yG1Xf )
+- [AI Labor Market Insights Dashboard](https://youtu.be/_xodPJHXH5E?si=_KuZqv2xhX6yG1Xf )
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vincevinty)
