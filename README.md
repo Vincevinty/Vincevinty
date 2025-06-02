@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Professional Foundations Projects:</h2>
 
-- <b> Develop the AI Labor Market Insights Dashboard </b>
+- <b> Develop the AI Labor Market Insights Dashboard </b>  [View Presentation](https://docs.google.com/presentation/d/1lB6w0wbnVLDqmbGCyrmyXiKlOnobHgnEIoq79tOcYzA/edit?usp=sharing)
   
 
 
